@@ -1,0 +1,13 @@
+{
+"companyName": "Squid Squad Games",
+"productName": "Tanuki Sunset",
+"dataUrl": "https://raw.githubusercontent.com/amhooman/tanuki-sunset/main/tanuki-sunset/WebGL/Build/WebGL.data.unityweb?token=GHSAT0AAAAAABX33K7NRWQC3LOCKOWCH6AQY7NJYXA",
+"wasmCodeUrl": "https://raw.githubusercontent.com/amhooman/tanuki-sunset/main/tanuki-sunset/WebGL/Build/WebGL.wasm.code.unityweb?token=GHSAT0AAAAAABX33K7NN7EYQPH3CD5MDGX4Y7NJZNQ",
+"wasmFrameworkUrl": "https://raw.githubusercontent.com/amhooman/tanuki-sunset/main/tanuki-sunset/WebGL/Build/WebGL.wasm.framework.unityweb?token=GHSAT0AAAAAABX33K7MQCT57FL76VVXYAWUY7NJZ3Q",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
